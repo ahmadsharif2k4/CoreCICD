@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CICD.Learning/.vs/CICD.Learning/v16
+/CICD.Learning/CICD.UI/obj
